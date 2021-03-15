@@ -10,7 +10,7 @@ Hello and welcome to my super dumb repo that doesn't do anything! We just have a
 
 ## Fun code times:
 
-TypeScript:
+TypeScript (Is Fun):
 ```typescript
 export function validateURL(url: string): boolean {
     const protocols = ['http', 'https'];
